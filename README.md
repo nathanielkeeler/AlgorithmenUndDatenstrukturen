@@ -1,2 +1,2 @@
-# AlgorithmenUndDatenstrukturen
-Aufgaben für das Modul Algorithmen und Datenstrukturen im Studiengang AIN
+# AlgorithmsAndDatastructures
+Assignments for the module 'Algorithms and Datastructures'
